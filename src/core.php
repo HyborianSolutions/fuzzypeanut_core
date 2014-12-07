@@ -1,11 +1,11 @@
 <?php
 
 
-namespace \fuzzypeanut;
+namespace \Fuzzypeanut;
 
  
 
-class core {
+class Core {
 	public function __construct(){
 		var_dump('Loaded ' . __FILE__);
 	}
