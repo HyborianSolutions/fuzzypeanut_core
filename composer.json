@@ -8,12 +8,5 @@
             "email": "trollboy@shoggoth.net"
         }
     ],
-    "require": {},
-
-    "autoload": {
-        "psr-4": {
-            "fuzzypeanut\\": "src/",
-            "fuzzypeanut\\core\\": "src/core"
-        }
-    }
+    "require": {}, 
 }
