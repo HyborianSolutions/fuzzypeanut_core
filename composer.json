@@ -1,0 +1,12 @@
+{
+    "name": "fuzzypeanut/core",
+    "description": "Core of the fuzzypeanut project",
+    "license": "BSD",
+    "authors": [
+        {
+            "name": "trollboy",
+            "email": "trollboy@shoggoth.net"
+        }
+    ],
+    "require": {}
+}
